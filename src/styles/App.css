@@ -1,1 +1,9 @@
 
+.parent{
+    background-color: cadetblue;
+    height: 240px;
+}
+.child{
+    background-color: bisque;
+    margin: 30px 40px;
+}
